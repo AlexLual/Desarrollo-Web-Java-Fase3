@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.bedu.Postwork2.Postwork2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.096 s - in org.bedu.Postwork2.Postwork2ApplicationTests
